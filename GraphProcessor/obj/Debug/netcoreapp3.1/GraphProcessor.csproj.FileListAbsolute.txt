@@ -1,0 +1,29 @@
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/GraphProcessor.deps.json
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/GraphProcessor.runtimeconfig.json
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/GraphProcessor.runtimeconfig.dev.json
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/GraphProcessor.dll
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/GraphProcessor.pdb
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.csprojAssemblyReference.cache
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.AssemblyInfoInputs.cache
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.AssemblyInfo.cs
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.csproj.CoreCompileInputs.cache
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.dll
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.pdb
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.genruntimeconfig.cache
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/bin/Debug/netcoreapp3.1/QuikGraph.dll
+/Users/redf5/Projects/GraphProcessor/GraphProcessor/obj/Debug/netcoreapp3.1/GraphProcessor.csproj.CopyComplete
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.exe
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.deps.json
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.runtimeconfig.json
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.runtimeconfig.dev.json
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.dll
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\GraphProcessor.pdb
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\bin\Debug\netcoreapp3.1\QuikGraph.dll
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.csprojAssemblyReference.cache
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.AssemblyInfoInputs.cache
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.AssemblyInfo.cs
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.csproj.CoreCompileInputs.cache
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.csproj.CopyComplete
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.dll
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.pdb
+E:\Downloads pesadowns\GraphProcessor\GraphProcessor\GraphProcessor\obj\Debug\netcoreapp3.1\GraphProcessor.genruntimeconfig.cache

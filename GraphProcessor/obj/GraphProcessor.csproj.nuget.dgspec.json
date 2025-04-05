@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj": {}
+  },
+  "projects": {
+    "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj",
+        "projectName": "GraphProcessor",
+        "projectPath": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj",
+        "packagesPath": "C:\\Users\\Hércules\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hércules\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "QuikGraph": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

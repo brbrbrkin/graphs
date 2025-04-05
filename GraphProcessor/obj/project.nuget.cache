@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcbtIlEK/tnN+nebVGMd/oUOrNykUD84dNT60lJl9QSlwPQHmdqA/x6jfy+BPrHiJpy8eKN9r/WfS+W9BJ1Uog==",
+  "success": true,
+  "projectFilePath": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hércules\\.nuget\\packages\\quikgraph\\2.2.0\\quikgraph.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

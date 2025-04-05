@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuikGraph/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/QuikGraph.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuikGraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuikGraph/2.2.0": {
+      "sha512": "ApizmgozbNF+DwC+ZS09Qxg2UWgU422chrTLr+KnayvwcWN2+L3Kb1VzHoyGm4R25XheiHe+N1jXqgxYYcYFsA==",
+      "type": "package",
+      "path": "quikgraph/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net35/QuikGraph.dll",
+        "lib/net35/QuikGraph.xml",
+        "lib/net40/QuikGraph.dll",
+        "lib/net40/QuikGraph.xml",
+        "lib/net45/QuikGraph.dll",
+        "lib/net45/QuikGraph.xml",
+        "lib/netstandard1.3/QuikGraph.dll",
+        "lib/netstandard1.3/QuikGraph.xml",
+        "lib/netstandard2.0/QuikGraph.dll",
+        "lib/netstandard2.0/QuikGraph.xml",
+        "quikgraph.2.2.0.nupkg.sha512",
+        "quikgraph.nuspec",
+        "quikgraph_logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "QuikGraph >= 2.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hércules\\.nuget\\packages\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj",
+      "projectName": "GraphProcessor",
+      "projectPath": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\GraphProcessor.csproj",
+      "packagesPath": "C:\\Users\\Hércules\\.nuget\\packages\\",
+      "outputPath": "E:\\Downloads pesadowns\\GraphProcessor\\GraphProcessor\\GraphProcessor\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Hércules\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "QuikGraph": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

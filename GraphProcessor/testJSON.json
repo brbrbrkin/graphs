@@ -1,0 +1,20 @@
+﻿{
+  "vertices": {
+    "vertex1": [
+      "vertex2",
+      "vertex3"
+    ],
+    "vertex2": [
+      "vertex3",
+      "vertex4"
+    ],
+    "vertex3": [
+      "vertex2",
+      "vertex1"
+    ],
+    "vertex4": [
+      "vertex1",
+      "vertex3"
+    ]
+  }
+}
